@@ -2,10 +2,8 @@
 
 ## Links to other pages
 ### About me
-[Link to about me](Aboutme.md)
+[Link to about me](AboutMe.md)
 ### My favorite things
-[Link to my favorite things](favoritethings.md)
+[Link to my favorite things](FavoriteThings.md)
 ### My designs
-[Link to some of my designs](design.md)
-### Project requirements
-[Link to project requirements](projectrequirements.md)
+[Link to some of my designs](Design.md)
